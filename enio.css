@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(245, 244, 244);
+ 
+   display: flex;
+   justify-content: center;
+ }
+.contenedor{
+    
+    width:900px;
+}
